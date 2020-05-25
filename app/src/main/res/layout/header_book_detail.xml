@@ -6,7 +6,7 @@
     <data>
 
         <!--调用静态方法-->
-        <import type="java.lang.String" />
+<!--        <import type="java.lang.String" />-->
 
         <import type="com.example.jingbin.cloudreader.utils.StringFormatUtil" />
         <!--引用bean-->
